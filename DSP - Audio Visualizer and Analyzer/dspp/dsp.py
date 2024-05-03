@@ -9,7 +9,6 @@ FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 44100
 
-
 #  OBJECTS/INSTANCES
 p = pyaudio.PyAudio()
 
