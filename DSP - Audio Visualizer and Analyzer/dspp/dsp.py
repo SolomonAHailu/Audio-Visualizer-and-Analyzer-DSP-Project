@@ -6,6 +6,8 @@
 
 
 
+
+
 import struct
 import pyaudio
 import matplotlib.pyplot
